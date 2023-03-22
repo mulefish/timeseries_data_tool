@@ -1,0 +1,22 @@
+{
+  "name": "timeseries_data_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nvm use 17 ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulefish/timeseries_data_tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulefish/timeseries_data_tool/issues"
+  },
+  "homepage": "https://github.com/mulefish/timeseries_data_tool#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1340.0"
+  }
+}
